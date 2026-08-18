@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -27,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
