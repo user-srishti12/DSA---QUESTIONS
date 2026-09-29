@@ -3,6 +3,7 @@ class Solution {
        String[] a=new String[nums.length];
        for(int i=0;i<nums.length;i++){
         a[i]=String.valueOf(nums[i]);}
+        //approach used to comapre 
         Arrays.sort(a, (x, y) -> { return (y + x).compareTo(x + y); });
         if (a[0].equals("0")) { return "0"; }
 
