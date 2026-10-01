@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
