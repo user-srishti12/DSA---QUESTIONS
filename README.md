@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0371-sum-of-two-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0371-sum-of-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
