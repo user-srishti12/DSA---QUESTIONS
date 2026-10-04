@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
@@ -37,12 +38,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0179-largest-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
