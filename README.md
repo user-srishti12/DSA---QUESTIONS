@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/0371-sum-of-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/user-srishti12/DSA---QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
